@@ -9,13 +9,6 @@ package test_project;
  *
  * @author wpoteat
  */
-public class Test_project {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        System.out.println("Hellp World");
-    }
+public class TestGuy {
     
 }
